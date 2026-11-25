@@ -1,0 +1,2 @@
+# Rosy
+Rosehaven utility bot
